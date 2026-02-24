@@ -1,12 +1,12 @@
 {
   "name": "Liang Mi",
   "website": "https://liangmi.dev/",
-  "email": "hi@liangmi.dev",
-  "social-media": {
-    "twitter": "liangmiQwQ",
-    "youtube": "liangmiQwQ",
+  "contact": {
     "github": "liangmiQwQ",
+    "twitter": "liangmiQwQ",
+    "email": "hi@liangmi.dev",
     "bsky": "liangmi.dev",
+    "youtube": "liangmiQwQ",
     "bilibili": "1964165864"
   }
 }
